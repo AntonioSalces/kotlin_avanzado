@@ -1,0 +1,16 @@
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\bin\Debug\HolaMundoWPF.exe.config
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\bin\Debug\HolaMundoWPF.exe
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\bin\Debug\HolaMundoWPF.pdb
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.csproj.AssemblyReference.cache
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\App.g.cs
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF_MarkupCompile.cache
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF_MarkupCompile.lref
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\MainWindow.baml
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.g.resources
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.Properties.Resources.resources
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.csproj.GenerateResource.cache
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.csproj.CoreCompileInputs.cache
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.exe
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.pdb
+C:\Users\asalalc1312\Documents\repos\Propios\HolaMundoWPF\HolaMundoWPF\obj\Debug\HolaMundoWPF.exe.config

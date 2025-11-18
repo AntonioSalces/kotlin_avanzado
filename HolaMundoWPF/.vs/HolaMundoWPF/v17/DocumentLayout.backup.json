@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426CE890-D018-4D9A-80C0-E7716F5EBB12}|HolaMundoWPF\\HolaMundoWPF.csproj|c:\\users\\asalalc1312\\documents\\repos\\propios\\holamundowpf\\holamundowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426CE890-D018-4D9A-80C0-E7716F5EBB12}|HolaMundoWPF\\HolaMundoWPF.csproj|solutionrelative:holamundowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426CE890-D018-4D9A-80C0-E7716F5EBB12}|HolaMundoWPF\\HolaMundoWPF.csproj|c:\\users\\asalalc1312\\documents\\repos\\propios\\holamundowpf\\holamundowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{426CE890-D018-4D9A-80C0-E7716F5EBB12}|HolaMundoWPF\\HolaMundoWPF.csproj|solutionrelative:holamundowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426CE890-D018-4D9A-80C0-E7716F5EBB12}|HolaMundoWPF\\HolaMundoWPF.csproj|c:\\users\\asalalc1312\\documents\\repos\\propios\\holamundowpf\\holamundowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426CE890-D018-4D9A-80C0-E7716F5EBB12}|HolaMundoWPF\\HolaMundoWPF.csproj|solutionrelative:holamundowpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\HolaMundoWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HolaMundoWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\HolaMundoWPF\\App.xaml.cs",
+              "RelativeToolTip": "HolaMundoWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:57:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\HolaMundoWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HolaMundoWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\HolaMundoWPF\\MainWindow.xaml",
+              "RelativeToolTip": "HolaMundoWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T07:34:13.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\HolaMundoWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HolaMundoWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\asalalc1312\\Documents\\repos\\Propios\\HolaMundoWPF\\HolaMundoWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HolaMundoWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:34:11.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
