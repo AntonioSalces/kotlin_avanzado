@@ -15,8 +15,12 @@ class PokemonRepositoryImpl @Inject constructor(
     @LocalDataSource private val localDataSource: PokemonDataSource,
     private val scope: CoroutineScope
 ): PokemonRepository {
-    override suspend fun readOne(id: Long): Pokemon? {
+    override suspend fun readOne(id: Long): Result<Pokemon> {
         return remoteDataSource.readOne(id)
+    }
+
+    override suspend fun readOne(name: String): Pokemon? {
+        return remoteDataSource.readOne(name)
     }
 
     override suspend fun readAll(): List<Pokemon> {
